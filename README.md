@@ -23,78 +23,13 @@ The App provides advanced Streamlit application designed to streamline the extra
 
 ## Walkthrough
 
-Check out our video demo:
-
-[![Video Thumbnail](https://img.youtube.com/vi/VIDEO_ID/hqdefault.jpg)](https://drive.google.com/file/d/1ntvkI6SWB2GGf3LKa73eeSC3UL1vluYI/view?usp=drive_link)
-
-
-
-
-![2](https://res.cloudinary.com/dgyvdwda7/image/upload/v1714320966/nvdepq8f8wcl39nzjdtt.jpg)
-
-![3](https://res.cloudinary.com/dgyvdwda7/image/upload/v1714321013/engmio20x7ptblykd9ux.jpg)
-
-![4](https://res.cloudinary.com/dgyvdwda7/image/upload/v1714321043/zhq3z3gpxos1s9pniy0s.jpg)
+https://github.com/user-attachments/assets/28636100-08ce-4bf0-afbd-ee2c1c1f7e35
 
 
 ## 💬💡 Features
 
+- **Real-Time Processing:** Ensures prompt processing and analysis of PDF documents, allowing users to quickly obtain insights and generate useful outputs.
 
-- Food Item Tracking: Upload pictures of food items to track their water footprint.
-- Activity Tracking: Log various activities such as watering plants or washing hands to monitor water usage.
-- Leaderboard: Engage in friendly competition with other users and earn XP points.
-- Informative Blog: Access informative articles to learn about water conservation practices.
+- **Vector Store Integration:** Implements a vector store for efficient similarity search and context retrieval, enhancing the accuracy of responses to user queries.
 
-
-## 📦 Packages
-
-| Name | Description |
-| --- | --- |
-| [`@cupertino_icons`](https://pub.dev/packages/cupertino_icons) | Cupertino Icons |
-| [`@shared_preferences`](https://pub.dev/packages/shared_preferences) | Shared Preferences |
-| [`@dio`](https://pub.dev/packages/dio) | Dio |
-| [`@dash_chat_2`](https://pub.dev/packages/dash_chat_2) | Dash Chat |
-| [`@syncfusion_flutter_datepicker`](https://pub.dev/packages/syncfusion_flutter_datepicker) | Syncfusion_flutter_datepicker |
-| [`@showcaseview`](https://pub.dev/packages/showcaseview) | Showcaseview |
-| [`@tensorflow_lite_flutter`](https://pub.dev/packages/tensorflow_lite_flutter) | tensorflow_lite_flutter |
-| [`@percent_indicator`](https://pub.dev/packages/percent_indicator) | percent_indicator |
-
-
-## Prerequisites
-
-To run this app, you need to have Flutter installed on your system. If you haven't installed Flutter yet, please follow the official Flutter installation guide: [Flutter Installation](https://flutter.dev/docs/get-started/install)
-
-## Getting Started
-
-1. Clone this repository:
-
-   ```bash
-   git clone https://github.com/sidesshmore/Aqua-Trace-Flutter-App.git
-   ```
-
-2. Change to the project directory:
-
-   ```bash
-   cd Aqua-Trace-Flutter-App
-   ```
-
-3. Install the dependencies:
-
-   ```bash
-   flutter pub get
-   ```
-
-4. Run the app:
-
-   ```bash
-   flutter run
-   ```
-
-   This will launch the app on a connected device or emulator.
-
-
-## Authors
-
-Sidessh More [@Linkedin](https://www.linkedin.com/in/sidessh/)   [@Github](https://github.com/sidesshmore)
-
-Shakthivel   [@Linkedin](https://www.linkedin.com/in/shakthivel2802/)   [@Github](https://github.com/SHAKTHI-VEL)
+- **User-Friendly Interface:** Features an intuitive Streamlit interface for easy interaction with the app, including file uploads, question inputs, and data fetching.
