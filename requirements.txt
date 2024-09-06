@@ -1,0 +1,8 @@
+streamlit
+PyPDF2
+langchain
+google-generativeai
+tabula-py
+fitz
+Pillow
+python-dotenv
